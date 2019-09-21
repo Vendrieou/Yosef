@@ -4,3 +4,5 @@ test
 A
 B
 c       hello word git
+
+d       halo dunia
